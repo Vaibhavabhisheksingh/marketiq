@@ -16,7 +16,7 @@ function Footer() {
           <div className="col">
             <p>Company</p>
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -24,7 +24,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -32,7 +32,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -40,7 +40,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -48,7 +48,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -56,7 +56,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -64,7 +64,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -72,7 +72,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -83,7 +83,7 @@ function Footer() {
           <div className="col">
             <p>Support</p>
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -91,7 +91,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -99,7 +99,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -107,7 +107,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -115,7 +115,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -123,7 +123,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -135,7 +135,7 @@ function Footer() {
           <div className="col">
             <p>Account</p>
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -143,7 +143,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >
@@ -151,7 +151,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#"
+              href="/"
               className="mb-3 text-muted"
               style={{ textDecoration: "none" }}
             >

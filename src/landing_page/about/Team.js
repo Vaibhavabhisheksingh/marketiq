@@ -27,12 +27,12 @@ function Team() {
           </p>
           <p>Playing basketball is his zen.</p>
           <p>
-            Connect on <a href="" style={{ textDecoration: "none" }}>
+            Connect on <a href="/" style={{ textDecoration: "none" }}>
               Homepage
-            </a> / <a href="" style={{ textDecoration: "none" }}>
+            </a> / <a href="/" style={{ textDecoration: "none" }}>
               TradingQnA
             </a> /{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               Twitter
             </a>
           </p>
